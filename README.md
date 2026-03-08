@@ -1,4 +1,4 @@
-# Text Extraction API
+# Text  API
 
 Este proyecto implementa un microservicio con FastAPI que analiza texto y devuelve
 información estructurada en formato JSON.
